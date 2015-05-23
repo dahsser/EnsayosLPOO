@@ -1,0 +1,9 @@
+GIT y GITHUB
+Los sistemas de control de versiones son programas que tienen como objetivo controlar los cambios en el desarrollo de cualquier tipo de software (control de versiones), permitiendo conocer el estado actual de mi proyecto,  las personas que intervinieron en ellos, cambios en el proyecto, etc.
+Github [https://github.com/] viene a ser un repositorio de archivos usando el control de versiones de Github.
+Los codigos se pueden almacenar de forma publica, pero tambien de forma privada.
+Git por su parte viene a ser el software de control de versiones creado nada más que por Linus Torvalds, iniciador del kernel Linux.
+El control de versiones que maneja GIT permite la rapidez en la gestión de ramas del proyecto y mezclado de diferentes versiones, contiene herramientas para navegar por el proyecto.
+Mediante GIT cada persona parte del proyecto puede tener una copia local del software en desarrollo, podemos saber quién modifico parte del proyecto, las famosas etiquetas 1.0 1.1 1.9 2.0.
+Los archivos se hashean con SHA1 para que el codigo no sea alterado sin que lo sepamos al hacer la comprobación.
+Y por supuesto mejora la capacidad de trabajo en equipo.
